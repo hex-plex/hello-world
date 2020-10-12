@@ -6,7 +6,7 @@ int main()
 {  
     i++;
     if(i<100)
-        cout<<"Happy Birthday";
+        cout<<"Happy Birthday!!";
     main();
     return 0;   
 }    
