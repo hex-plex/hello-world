@@ -2,9 +2,10 @@
 trying out something new
 #include<stdio.h>
 int main()
-{   
-    int i;
-    for(i=0;i<100;i++)
-        cout<<"Happy Diwali";
+{  
+    i++;
+    if(i<100)
+        cout<<"Happy Birthday!!";
+    main();
     return 0;   
 }    
