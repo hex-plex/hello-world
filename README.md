@@ -1,7 +1,6 @@
 # hello-world
 trying out something new
 #include<stdio.h>
-int i=0;
 int main()
 {  
     i++;
